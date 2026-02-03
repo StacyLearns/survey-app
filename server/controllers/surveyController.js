@@ -124,4 +124,3 @@ const results = (req, res) => {
  
 // make the above code accessible for other code modules
 module.exports = { jobList, survey, results };
-
